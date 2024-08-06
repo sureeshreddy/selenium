@@ -1,0 +1,8 @@
+<suite name="Suite1" verbose="1">
+<test name="Nopackage">
+<packages>
+<packages name="com.hrms.testscripts.TC001"/>
+<packages name="com.hrms.testscripts.TC002"/>
+</packages>
+</test>
+</suite>
